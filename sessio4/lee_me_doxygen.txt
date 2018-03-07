@@ -1,0 +1,4 @@
+Esta sesión tiene una parte dedicada a mostrar el funcionamiento de la 
+aplicación doxygen para documentar progrmas, clases, etc.
+
+La carpeta con los materiales necesarios se llama "doxygen".
